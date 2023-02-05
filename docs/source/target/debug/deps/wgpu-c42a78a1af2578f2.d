@@ -1,0 +1,14 @@
+c:\School\GitHub\rusterizer\target\debug\deps\wgpu-c42a78a1af2578f2.rmeta: C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\lib.rs C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\backend\mod.rs C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\backend\direct.rs C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\util\mod.rs C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\util\belt.rs C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\util\device.rs C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\util\encoder.rs C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\util\indirect.rs C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\util\init.rs C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\macros.rs
+
+c:\School\GitHub\rusterizer\target\debug\deps\wgpu-c42a78a1af2578f2.d: C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\lib.rs C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\backend\mod.rs C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\backend\direct.rs C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\util\mod.rs C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\util\belt.rs C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\util\device.rs C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\util\encoder.rs C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\util\indirect.rs C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\util\init.rs C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\macros.rs
+
+C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\lib.rs:
+C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\backend\mod.rs:
+C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\backend\direct.rs:
+C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\util\mod.rs:
+C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\util\belt.rs:
+C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\util\device.rs:
+C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\util\encoder.rs:
+C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\util\indirect.rs:
+C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\util\init.rs:
+C:\Users\jaime\.cargo\registry\src\github.com-1ecc6299db9ec823\wgpu-0.14.2\src\macros.rs:
