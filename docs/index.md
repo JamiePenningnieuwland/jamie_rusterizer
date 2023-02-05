@@ -25,3 +25,4 @@ BUas email: 211933@buas.nl
 > Provide screenshots/videos/gifs to showcase your software rasterizer.  
 > Make sure to showcase the coolest features implemented and mention what each media is showcasing.  
 > If you want to use videos, it's recommended to upload them on youtube instead of github and just embed them in this Markdown file.
+![rusterizer](https://user-images.githubusercontent.com/106588989/216830000-83a6c105-5a0a-4f51-9ef0-51ac0c187f64.gif)
