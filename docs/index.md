@@ -24,4 +24,6 @@ Picture of gltf model
 
 ![image](https://user-images.githubusercontent.com/106588989/216829741-61396cc6-8f2c-4aae-a652-b2197a0d4d99.png)
 
+Gif that showcases camera movement and clipping
 
+![](https://github.com/JamiePenningnieuwland/jamie_rusterizer/blob/main/docs/Showcase/showcase_clipping_bc.gif)
