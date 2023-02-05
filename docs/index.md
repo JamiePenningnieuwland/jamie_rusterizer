@@ -20,9 +20,7 @@ BUas email: 211933@buas.nl
 
 
 ## Showcase
+Picture of gltf model
 ![image](https://user-images.githubusercontent.com/106588989/216829741-61396cc6-8f2c-4aae-a652-b2197a0d4d99.png)
 
-> Provide screenshots/videos/gifs to showcase your software rasterizer.  
-> Make sure to showcase the coolest features implemented and mention what each media is showcasing.  
-> If you want to use videos, it's recommended to upload them on youtube instead of github and just embed them in this Markdown file.
-![rusterizer](https://user-images.githubusercontent.com/106588989/216830000-83a6c105-5a0a-4f51-9ef0-51ac0c187f64.gif)
+
