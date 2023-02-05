@@ -1,0 +1,27 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type":"lldb",
+            "name": "Debug",
+            "request": "launch",
+            "program": "target/debug/my_rasterizer.exe",
+            "cwd": "${workspaceFolder}",
+            "sourceLanguages": [
+                "rust"
+            ],
+            "args": [""]
+        },
+        {
+            "type":"lldb",
+            "name": "Release",
+            "request": "launch",
+            "program": "target/release/my_rasterizer.exe",
+            "cwd": "${workspaceFolder}",
+            "sourceLanguages": [
+                "rust"
+            ],
+            "args": [""]
+        }
+    ]
+}
