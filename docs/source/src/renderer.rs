@@ -204,7 +204,7 @@ impl Renderer {
                         let result = (ambient + diffuse) * u32_to_vec3(color);
 
 
-                        self.buffer[i] = vec3_to_argb8(bc);
+                        self.buffer[i] = vec3_to_argb8(result);
                 }
             }
             }

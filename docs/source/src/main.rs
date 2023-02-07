@@ -163,7 +163,7 @@ fn main() {
         //update camera
         update_camera(delta_time,&mut the_renderer, &window);
 
-        let rot = Quat::from_euler(EulerRot::XYZ, 1.5, 0.0, 0.0);
+        let rot = Quat::from_euler(EulerRot::XYZ, 1.5, 0.0, r);
         //let rot = Quat::from_euler(EulerRot::XYZ, 0.0, 0.0, 0.0);
         let trans = Transform::from_translation_rotation(Vec3::new(0.0,0.0,-4.0), rot);
     
